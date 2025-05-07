@@ -1,4 +1,4 @@
-# NLP-Based-Intent-Recognition-and-Named-Entity-Recognition
+# NLP-Based-Intent-Recognition-and-Named-Entity-Recognition 
 
 ## Project Overview
 This project focuses on Natural Language Processing (NLP) for **Intent Recognition** and **Named Entity Recognition (NER)**. The goal is to develop deep learning models that can classify user intents and extract named entities from text, essential tasks for virtual assistants and chatbot applications.
